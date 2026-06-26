@@ -12,6 +12,6 @@ export default defineConfig({
   },
 
   vite: {
-    base: "/k-star-events/",
+    base: "/",
   },
 });
