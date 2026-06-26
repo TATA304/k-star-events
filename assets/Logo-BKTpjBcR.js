@@ -1,0 +1,1 @@
+import{p as e}from"./auth-_8kTeAs0.js";var t=e();function n({className:e=`h-10 w-auto`}){return(0,t.jsx)(`img`,{src:`/kstar-logo.png`,alt:`K-Star`,className:e})}export{n as t};
